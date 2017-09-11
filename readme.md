@@ -22,4 +22,6 @@ There are two types of crawling in this simple app.
 
     To run this just click on "Queue Crawler" button, after run "php artisan queue:work" by terminal
 
-####It there will be some bugs I am free for solving them.
+#### If there will be some bugs I am free for solving them.
+###### [Gmail](https://www.gmail.com): armovsisyan0@gmail.com
+###### [Linkedin](https://www.linkedin.com): [A. Movsisyan](https://www.linkedin.com/in/arthur-movsisyan/)
